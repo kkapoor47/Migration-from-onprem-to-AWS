@@ -239,7 +239,7 @@ Now when you go to AMI, you will see new AMI created
 Now you can simply right click on the AMI and create EC2 machine from it
 
 
-**Boom!! we have successfully migrated our on-prem VM to AWS **
+**Boom!! we have successfully migrated our on-prem VM to AWS**
 
 
 
